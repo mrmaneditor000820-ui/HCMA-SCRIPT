@@ -82,3 +82,8 @@
 // var valuey = 4;
 // var result = valuex % valuey
 // console.log(result)
+
+// Question N0.5 Prompt.
+
+// .1 var name = prompt("What is your Name")
+// alert("Hello " + name)
