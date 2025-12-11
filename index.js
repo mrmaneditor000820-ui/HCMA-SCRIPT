@@ -87,3 +87,15 @@
 
 // .1 var name = prompt("What is your Name")
 // alert("Hello " + name)
+
+// .2 var age = prompt("Your age")
+// console.log("Your Age Is " + age)
+
+// .3 var number1 = +prompt("First Number")
+// var number2 = +prompt("Second Number")
+// var result = number1 + number2
+// console.log(result)
+
+// .4 var color = prompt("Ask Your Favorite Color")
+// alert("Wow I Like "+ color+ " Too!")
+
