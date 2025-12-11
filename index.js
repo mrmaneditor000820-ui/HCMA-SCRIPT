@@ -99,3 +99,19 @@
 // .4 var color = prompt("Ask Your Favorite Color")
 // alert("Wow I Like "+ color+ " Too!")
 
+// .5 var city = prompt("Ask Your City Name")
+// alert("You are from " + city)
+
+// Question N0.6  If Statement and Comparison Operators:
+
+// .1 var age = prompt("enter your age")
+// if(age < 30){
+//     alert("You Still Young Man")
+// }
+
+// .2 var number = prompt("Ask number")
+// if(number % 2 === 0 ){
+//    alert("Even Number")
+// }else{
+//     alert("odd number")
+// }
