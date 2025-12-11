@@ -115,3 +115,39 @@
 // }else{
 //     alert("odd number")
 // }
+
+
+// .3 let num1 = prompt("Enter the first number:");
+// let num2 = prompt("Enter the second number:");
+
+// if (num1 > num2) {
+//   alert(num1 + " is greater than " + num2);
+// } else if (num2 > num1) {
+//   alert(num2 + " is greater than " + num1);
+// } else {
+//   alert("Both numbers are equal.");
+// }
+
+// .4 var password = prompt("Ask Your Password");
+
+// if(password === "12345"){
+// alert("Acces Granted")
+// }else{
+//     alert("Acces Denied")
+// }
+
+// .5 let a = 5;
+// let b = "5"; // string
+
+// // Loose equality (==)
+// console.log(a == b);
+
+// // Strict equality (===)
+// console.log(a === b); 
+
+// // Loose inequality (!=)
+// console.log(a != b); 
+
+// // Strict inequality (!==)
+// console.log(a !== b);
+
