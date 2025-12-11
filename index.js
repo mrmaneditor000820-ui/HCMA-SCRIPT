@@ -67,3 +67,18 @@
 // var xvalue = x=4;
 // var result = y-x
 // alert(result)
+
+// .3 var valuex = 2;
+// var valuey = 4;
+// var result = valuex * valuey
+// console.log(result)
+
+// .4 var valuex = 2;
+// var valuey = 4;
+// var result = valuex / valuey
+// console.log(result)
+
+// .5 var valuex = 2;
+// var valuey = 4;
+// var result = valuex % valuey
+// console.log(result)
